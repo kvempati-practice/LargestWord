@@ -9,7 +9,7 @@
 
 ## File Organization
 
-####LargestWord.java
+#### LargestWord.java
 This file will have implimentation of finding largest word and it's transposed words from a file
 Assumptions:
 - Each word is separated by space or newline
@@ -17,13 +17,13 @@ Assumptions:
 - Returns null if the file does not have any word
 - Expect caller to catch the exceptions
 
-####LargetWordTestCases.java
+#### LargetWordTestCases.java
 This file will have all the positive and negative test cases
 
-####TestRunner.java
+#### TestRunner.java
 This file will have nesssary support to run the testcases from the above file using junit test framewordk
 
-####test-data
+#### test-data
 This folder consists of test data files. **Please do not modify**
 
 ## Test Cases
