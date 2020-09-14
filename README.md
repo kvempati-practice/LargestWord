@@ -29,17 +29,17 @@ This folder consists of test data files. **Please do not modify**
 ## Test Cases
 Here is the summary of the test cases. You can find the implimetantion of all these test cases in LargetWordTestCases.java
 
-**_01_emptyFileTest:** Test case to validate handling of null as file name
-**_02_fileNotFoundTest:** Test case to validate handling of non existing file
-**_03_fileIsADirectoryTest:** Test case to validate handling directory as a file
-**_04_emptyContentFileTest:**  Test case to validate handling of empty file content. Expect null as a largest word
-**_05_largestWordSuccesTest:** Test case to validate the positive scenario to find the largest word with its first occurance
-**_06_largestWortLastOccranceTest:** Test case to validate the negative scenario to find the largest word with its last occurance
-**_07_largestWordAndTransposeSuccessTest:** Test case to validate the positive scenario for finding the largest word and the transpose of that largest word
-**_08_transposeLargestWordSuccessTest:** Test case to validate the positive scenario for finding the largest word and the transpose of that largest word
-**_09_transposeOfTransposeTest:** Test case to validate the transpose of the transpose word
-**_10_largestWordAndTransposeEmptyTest:** Test case to validate the negative scenario to find the largest word and its transpose using an empty file
-**_11_binaryDataTest:** est case to validate the negative scenario if the given input file is binary file
+- **_01_emptyFileTest:** Test case to validate handling of null as file name
+- **_02_fileNotFoundTest:** Test case to validate handling of non existing file
+- **_03_fileIsADirectoryTest:** Test case to validate handling directory as a file
+- **_04_emptyContentFileTest:**  Test case to validate handling of empty file content. Expect null as a largest word
+- **_05_largestWordSuccesTest:** Test case to validate the positive scenario to find the largest word with its first occurance
+- **_06_largestWortLastOccranceTest:** Test case to validate the negative scenario to find the largest word with its last occurance
+- **_07_largestWordAndTransposeSuccessTest:** Test case to validate the positive scenario for finding the largest word and the transpose of that largest word
+- **_08_transposeLargestWordSuccessTest:** Test case to validate the positive scenario for finding the largest word and the transpose of that largest word
+- **_09_transposeOfTransposeTest:** Test case to validate the transpose of the transpose word
+- **_10_largestWordAndTransposeEmptyTest:** Test case to validate the negative scenario to find the largest word and its transpose using an empty file
+- **_11_binaryDataTest:** est case to validate the negative scenario if the given input file is binary file
 
 ## Build and Run test cases
 Please follow the below instructions to build and run testcases
