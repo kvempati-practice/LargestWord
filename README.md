@@ -1,11 +1,15 @@
 # Find Largest word and its transpose from a file
 
-## Task
+### Task
  - Read input from a file of words
  - Find the largest word in the file
  - Transpose the letters in the largest word
  - Show the largest word and the largest word transposed
  - Demonstrate positive and negative test cases
+
+### Language & tools used
+- I have used Jave to for code and
+- I have used junit as a test automation framework
 
 ## File Organization
 
